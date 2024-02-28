@@ -5,9 +5,3 @@ customers' shopping frequency, their spending habits and the maximum amount they
 store. The goal of the model is to classify customers into three categories: low, medium and high
 value.
 Attached training data in a file named data_customer_classification
-
-- instalar
-- sudo apt-get install python3-pip (si usa linux)
-- pip install tensorflow
-- y todo el envoriment necesario
-- ir la carpeta ejercicio4 y ejecutar el comando `python3 test_model.py`

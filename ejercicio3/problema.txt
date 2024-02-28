@@ -35,12 +35,3 @@ In the fourth test case, you need three jumps: the 1-st one as -1, the 2nd one a
 as +3, so 0 - 1 + +2 +3 = 4
 
 ● Punto extra - 5 pruebas unitarias.
-
-
-Pasos para correr programa
-
-● instalacion de node js
-● npm i
-● abrir consola
-● seleccionar ruta de la carpeta del ejercicio a probar
-● ejecutar `npm test`
