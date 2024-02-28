@@ -6,6 +6,7 @@ Pasos para correr programa
 ● ejecutar `python3 exercise2.py`
 ● pegar en la consola la siguiente columna
 
+```
 1 3
 3 2 1
 3
@@ -26,3 +27,4 @@ Pasos para correr programa
 3 3 2 1
 3 5 4 2
 0 0
+```
