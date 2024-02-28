@@ -4,6 +4,8 @@ function isPalindrome(word) {
     return newWord === reverseNewWord;
 }
 
+module.exports = isPalindrome;
+
 console.log(isPalindrome("radar"));
 console.log(isPalindrome("anita lava la tina"));
 console.log(isPalindrome("Yo dono rosas, oro no doy"));

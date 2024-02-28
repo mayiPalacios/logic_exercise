@@ -40,17 +40,7 @@ as +3, so 0 - 1 + +2 +3 = 4
 Pasos para correr programa
 
 ● instalacion de node js
+● npm i
 ● abrir consola
 ● seleccionar ruta de la carpeta del ejercicio a probar
-● ejecutar `node exercise3.js`
-● si hay elementos comentados para correr descomentar seleccionando todo el ejemplo
-  y colocando ctrl + k + u
-
- -- pruebas unitarias 
-
- reemplazar valores del codigo con estos datos
- 1- var t = 10;
-  let i = 1;
-
- 2- var t = 11;
-  let i = 1;
+● ejecutar `npm test`

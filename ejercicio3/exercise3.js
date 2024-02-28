@@ -19,9 +19,11 @@ function countMinJumps(x) {
   
     return -1;
   }
-  var t = 5;
-  let i = 1;
-  for (let j = 0; j < t; j++) {
-    console.log(i, countMinJumps(i));
-    i++;
-  }
+
+  module.exports = countMinJumps;
+  // var t = 11;
+  // let i = 1;
+  // for (let j = 0; j < t; j++) {
+  //   console.log(i, countMinJumps(i));
+  //   i++;
+  // }

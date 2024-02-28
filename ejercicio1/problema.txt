@@ -10,6 +10,4 @@ Pasos para correr programa
 ● instalacion de node js
 ● abrir consola
 ● seleccionar ruta de la carpeta del ejercicio a probar
-● ejecutar `node exercise3.js`
-● si hay elementos comentados para correr descomentar seleccionando todo el ejemplo
-  y colocando ctrl + k + u
+● ejecutar  `npm test`
